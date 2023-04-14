@@ -1,5 +1,3 @@
-# Muhammad Ilman Mughni 
-# NPM: 2006537324
 # f(x) = 2**0 + 0**6 + 5**3 + 7**3 + 2**4
 # f(x) = 1 + 12*x**3 + 2*x**4
 import numpy as np
